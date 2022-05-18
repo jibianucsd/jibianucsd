@@ -1,5 +1,6 @@
 - 👋 Hi, I’m David Bian
-- 🌱 I’m currently learning Electrical and Computer Engineer | UCSD
+- 🌱 Currently learning Machine Learning & Data Science @ UCSD
+- ✨ B.S. Computer System Design | M.S. Machine Learning & Data Science
 - 📫 How to reach me realdavidbian@gmai.com
 
 <!---
